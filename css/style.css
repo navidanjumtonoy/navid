@@ -10,7 +10,7 @@
   min-height: 38px;
   margin: 0 auto;
   /*for width 960px*/
-  border-bottom: 5px solid green; }
+  border-bottom: 5px solid orange; }
 
 .menu li {
   float: left;
@@ -36,7 +36,7 @@
   border-right: none; }
 
 .menu li a:hover {
-  background: green; }
+  background: orange; }
 
 .menu li ul {
   list-style-type: none;
