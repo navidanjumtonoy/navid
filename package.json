@@ -1,0 +1,14 @@
+{
+  "name": "navid",
+  "version": "1.0.0",
+  "description": "landing page for js",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "anjum",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
